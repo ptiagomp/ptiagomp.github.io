@@ -1,0 +1,50 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #555;
+    background-color: #f0e7db; /* soft pastel background */
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  h1 {
+    color: #6a5d7b; /* pastel purple */
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #6a5d7b; /* pastel purple */
+    font-size: 24px;
+  }
+  
+  .home-icon {
+    color: #f9c1b1; /* pastel red */
+    font-size: 100px;
+    margin: 20px 0;
+  }
+  
+  #funMessage {
+    margin: 20px 0;
+    color: 6a5d7b; /* pastel green */
+  }
+  
+  #draggableContainer {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #6a5d7b; /* light blue background */
+    border-radius: 10px;
+  }
+  
+  #draggableBox {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: #f9c1b1; /* pastel red */
+    border-radius: 5px;
+    cursor: move;
+  }
+  
+  /* Add more styles as needed */
+  
