@@ -38,12 +38,9 @@ body {
   }
   
   #draggableBox {
-    #draggableBox {
       font-size: 50px; /* Adjust size as needed */
       cursor: move;
       user-select: none; /* Prevents text selection */
-  }
-  
   }
   
   /* Add more styles as needed */
