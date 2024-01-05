@@ -18,8 +18,7 @@ body {
   }
   
   .home-icon {
-    /*color: #f9c1b1;  pastel red */
-    font-size: 100px;
+    font-size: 200px;
     margin: 20px 0;
   }
   
@@ -33,7 +32,7 @@ body {
     height: 300px;
     margin: 0 auto;
     position: relative;
-    background-color: #6a5d7b; /* light blue background */
+    background-color: #6a5d7b; /* pastel purple background */
     border-radius: 10px;
   }
   
