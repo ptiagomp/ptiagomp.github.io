@@ -45,8 +45,8 @@ body {
     font-size: 50px;         /* Adjust size as needed */
     cursor: move;
     user-select: none;       /* Prevents text selection */
-    width: 100px;            /* Set a fixed width */
-    height: 100px;           /* Set a fixed height */
+    width: 49px;            /* Set a fixed width */
+    height: 49px;           /* Set a fixed height */
     background-color: #f9c1b1; /* Optional: background color */
     border-radius: 5px;      
   }
