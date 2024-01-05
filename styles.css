@@ -42,7 +42,7 @@ body {
     width: 5px;
     height: 5px;
     position: absolute;
-    background-color: #f9c1b1; /* pastel red */
+    /*background-color: #f9c1b1; /* pastel red */
     border-radius: 5px;
     cursor: move;
   }
