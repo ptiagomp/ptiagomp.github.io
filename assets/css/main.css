@@ -3433,3 +3433,7 @@ input[type="button"]:disabled,
     padding: 0;
   }
 }
+
+.cv {
+  font-size: small;
+}
